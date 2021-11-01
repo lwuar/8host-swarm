@@ -1,0 +1,500 @@
+2021-10-31 16:26:13.559 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.037s
+user    0m0.029s
+sys     0m0.009s
+2021-10-31 16:26:15.714 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.039s
+user    0m0.034s
+sys     0m0.005s
+2021-10-31 16:26:17.911 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.035s
+sys     0m0.003s
+2021-10-31 16:26:20.056 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.049s
+user    0m0.040s
+sys     0m0.000s
+2021-10-31 16:26:22.268 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.030s
+sys     0m0.008s
+2021-10-31 16:26:24.461 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.024s
+sys     0m0.012s
+2021-10-31 16:26:26.685 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.037s
+user    0m0.028s
+sys     0m0.011s
+2021-10-31 16:26:28.868 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.038s
+user    0m0.034s
+sys     0m0.007s
+2021-10-31 16:26:31.037 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.033s
+sys     0m0.005s
+2021-10-31 16:26:33.202 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.035s
+user    0m0.030s
+sys     0m0.007s
+2021-10-31 16:26:35.393 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.038s
+user    0m0.030s
+sys     0m0.010s
+2021-10-31 16:26:37.586 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.037s
+user    0m0.035s
+sys     0m0.003s
+2021-10-31 16:26:39.748 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.033s
+sys     0m0.004s
+2021-10-31 16:26:41.929 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.037s
+sys     0m0.000s
+2021-10-31 16:26:44.115 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.025s
+sys     0m0.013s
+2021-10-31 16:26:46.305 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.037s
+sys     0m0.000s
+2021-10-31 16:26:48.471 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.028s
+sys     0m0.010s
+2021-10-31 16:26:50.647 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.037s
+user    0m0.026s
+sys     0m0.011s
+2021-10-31 16:26:52.843 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.037s
+user    0m0.034s
+sys     0m0.003s
+2021-10-31 16:26:55.033 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.031s
+sys     0m0.006s
+2021-10-31 16:26:57.236 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.033s
+sys     0m0.005s
+2021-10-31 16:26:59.455 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.041s
+user    0m0.041s
+sys     0m0.000s
+2021-10-31 16:27:01.645 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.033s
+sys     0m0.005s
+2021-10-31 16:27:03.840 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.034s
+sys     0m0.004s
+2021-10-31 16:27:06.055 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.038s
+user    0m0.029s
+sys     0m0.008s
+2021-10-31 16:27:08.216 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.039s
+user    0m0.025s
+sys     0m0.013s
+2021-10-31 16:27:10.428 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.022s
+sys     0m0.016s
+2021-10-31 16:27:12.621 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.037s
+sys     0m0.000s
+2021-10-31 16:27:14.816 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.034s
+sys     0m0.004s
+2021-10-31 16:27:16.992 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.034s
+sys     0m0.004s
+2021-10-31 16:27:19.180 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.028s
+sys     0m0.009s
+2021-10-31 16:27:21.380 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.038s
+sys     0m0.000s
+2021-10-31 16:27:23.552 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.038s
+user    0m0.038s
+sys     0m0.000s
+2021-10-31 16:27:25.716 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.030s
+sys     0m0.008s
+2021-10-31 16:27:27.936 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.037s
+user    0m0.032s
+sys     0m0.007s
+2021-10-31 16:27:30.117 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.035s
+user    0m0.031s
+sys     0m0.005s
+2021-10-31 16:27:32.278 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.037s
+user    0m0.029s
+sys     0m0.010s
+2021-10-31 16:27:34.444 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.021s
+sys     0m0.016s
+2021-10-31 16:27:36.633 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.037s
+user    0m0.035s
+sys     0m0.003s
+2021-10-31 16:27:38.807 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.026s
+sys     0m0.011s
+2021-10-31 16:27:40.999 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.038s
+user    0m0.035s
+sys     0m0.004s
+2021-10-31 16:27:43.209 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.037s
+user    0m0.026s
+sys     0m0.013s
+2021-10-31 16:27:45.382 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.038s
+user    0m0.032s
+sys     0m0.006s
+2021-10-31 16:27:47.579 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.039s
+user    0m0.027s
+sys     0m0.012s
+2021-10-31 16:27:49.747 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.025s
+sys     0m0.013s
+2021-10-31 16:27:51.921 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.032s
+sys     0m0.005s
+2021-10-31 16:27:54.086 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.037s
+user    0m0.034s
+sys     0m0.004s
+2021-10-31 16:27:56.270 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.032s
+sys     0m0.005s
+2021-10-31 16:27:58.478 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.029s
+sys     0m0.009s
+2021-10-31 16:28:00.672 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.032s
+sys     0m0.005s
+2021-10-31 16:28:02.860 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.037s
+user    0m0.031s
+sys     0m0.005s
+2021-10-31 16:28:05.063 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.037s
+sys     0m0.000s
+2021-10-31 16:28:07.246 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.027s
+sys     0m0.010s
+2021-10-31 16:28:09.435 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.029s
+sys     0m0.008s
+2021-10-31 16:28:11.597 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.038s
+user    0m0.024s
+sys     0m0.014s
+2021-10-31 16:28:13.776 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.037s
+user    0m0.037s
+sys     0m0.000s
+2021-10-31 16:28:15.955 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.039s
+user    0m0.034s
+sys     0m0.007s
+2021-10-31 16:28:18.137 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.038s
+user    0m0.033s
+sys     0m0.007s
+2021-10-31 16:28:20.317 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.037s
+user    0m0.027s
+sys     0m0.012s
+2021-10-31 16:28:22.513 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.034s
+sys     0m0.004s
+2021-10-31 16:28:24.684 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.035s
+user    0m0.031s
+sys     0m0.005s
+2021-10-31 16:28:26.880 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.037s
+sys     0m0.000s
+2021-10-31 16:28:29.060 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.016s
+sys     0m0.022s
+2021-10-31 16:28:31.237 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.041s
+user    0m0.033s
+sys     0m0.005s
+2021-10-31 16:28:33.420 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.037s
+sys     0m0.000s
+2021-10-31 16:28:35.593 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.037s
+sys     0m0.000s
+2021-10-31 16:28:37.784 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.045s
+user    0m0.031s
+sys     0m0.010s
+2021-10-31 16:28:39.940 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.021s
+sys     0m0.016s
+2021-10-31 16:28:42.107 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.037s
+user    0m0.026s
+sys     0m0.011s
+2021-10-31 16:28:44.300 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.030s
+sys     0m0.008s
+2021-10-31 16:28:46.463 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.039s
+user    0m0.036s
+sys     0m0.005s
+2021-10-31 16:28:48.643 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.037s
+user    0m0.037s
+sys     0m0.000s
+2021-10-31 16:28:50.815 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.032s
+sys     0m0.006s
+2021-10-31 16:28:53.014 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.037s
+user    0m0.032s
+sys     0m0.007s
+2021-10-31 16:28:55.163 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.039s
+user    0m0.028s
+sys     0m0.012s
+2021-10-31 16:28:57.379 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.038s
+user    0m0.030s
+sys     0m0.010s
+2021-10-31 16:28:59.572 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.039s
+user    0m0.031s
+sys     0m0.007s
+2021-10-31 16:29:01.737 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.037s
+user    0m0.030s
+sys     0m0.008s
+2021-10-31 16:29:03.915 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.035s
+user    0m0.028s
+sys     0m0.008s
+2021-10-31 16:29:06.100 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.037s
+user    0m0.031s
+sys     0m0.007s
+2021-10-31 16:29:08.275 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.035s
+user    0m0.021s
+sys     0m0.015s
+2021-10-31 16:29:10.432 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.038s
+sys     0m0.000s
+2021-10-31 16:29:12.607 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.037s
+user    0m0.035s
+sys     0m0.004s
+2021-10-31 16:29:14.803 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.035s
+user    0m0.025s
+sys     0m0.011s
+2021-10-31 16:29:16.969 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.037s
+sys     0m0.000s
+2021-10-31 16:29:19.158 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.038s
+user    0m0.033s
+sys     0m0.004s
+2021-10-31 16:29:21.360 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.038s
+sys     0m0.000s
+2021-10-31 16:29:23.527 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.037s
+user    0m0.033s
+sys     0m0.005s
+2021-10-31 16:29:25.708 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.032s
+sys     0m0.004s
+2021-10-31 16:29:27.881 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.026s
+sys     0m0.010s
+2021-10-31 16:29:30.104 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.038s
+user    0m0.037s
+sys     0m0.000s
+2021-10-31 16:29:32.256 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.035s
+sys     0m0.003s
+2021-10-31 16:29:34.476 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.039s
+user    0m0.025s
+sys     0m0.016s
+2021-10-31 16:29:36.649 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.037s
+user    0m0.033s
+sys     0m0.005s
+2021-10-31 16:29:38.873 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.038s
+user    0m0.034s
+sys     0m0.005s
+2021-10-31 16:29:41.040 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.042s
+user    0m0.034s
+sys     0m0.005s
+2021-10-31 16:29:43.208 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.035s
+user    0m0.025s
+sys     0m0.012s
+2021-10-31 16:29:45.399 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.030s
+sys     0m0.007s
+2021-10-31 16:29:47.565 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.039s
+user    0m0.039s
+sys     0m0.000s
+2021-10-31 16:29:49.740 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.036s
+user    0m0.028s
+sys     0m0.009s

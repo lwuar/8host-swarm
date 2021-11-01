@@ -1,0 +1,202 @@
+total 88
+-rw-r-----    1 root     root         86643 Oct 31 08:24 blockfile_000000
+total 92
+-rw-r-----    1 root     root         92552 Oct 31 08:26 blockfile_000000
+total 100
+-rw-r-----    1 root     root         98461 Oct 31 08:26 blockfile_000000
+total 104
+-rw-r-----    1 root     root        104372 Oct 31 08:26 blockfile_000000
+total 108
+-rw-r-----    1 root     root        110281 Oct 31 08:26 blockfile_000000
+total 116
+-rw-r-----    1 root     root        116189 Oct 31 08:26 blockfile_000000
+total 120
+-rw-r-----    1 root     root        122098 Oct 31 08:26 blockfile_000000
+total 128
+-rw-r-----    1 root     root        128008 Oct 31 08:26 blockfile_000000
+total 132
+-rw-r-----    1 root     root        133920 Oct 31 08:26 blockfile_000000
+total 140
+-rw-r-----    1 root     root        139828 Oct 31 08:26 blockfile_000000
+total 144
+-rw-r-----    1 root     root        145742 Oct 31 08:26 blockfile_000000
+total 152
+-rw-r-----    1 root     root        151655 Oct 31 08:26 blockfile_000000
+total 156
+-rw-r-----    1 root     root        157569 Oct 31 08:26 blockfile_000000
+total 160
+-rw-r-----    1 root     root        163481 Oct 31 08:26 blockfile_000000
+total 168
+-rw-r-----    1 root     root        169395 Oct 31 08:26 blockfile_000000
+total 172
+-rw-r-----    1 root     root        175307 Oct 31 08:26 blockfile_000000
+total 180
+-rw-r-----    1 root     root        181220 Oct 31 08:26 blockfile_000000
+total 184
+-rw-r-----    1 root     root        187135 Oct 31 08:26 blockfile_000000
+total 192
+-rw-r-----    1 root     root        193049 Oct 31 08:26 blockfile_000000
+total 196
+-rw-r-----    1 root     root        198961 Oct 31 08:26 blockfile_000000
+total 204
+-rw-r-----    1 root     root        204874 Oct 31 08:26 blockfile_000000
+total 208
+-rw-r-----    1 root     root        210785 Oct 31 08:26 blockfile_000000
+total 212
+-rw-r-----    1 root     root        216699 Oct 31 08:27 blockfile_000000
+total 220
+-rw-r-----    1 root     root        222612 Oct 31 08:27 blockfile_000000
+total 224
+-rw-r-----    1 root     root        228526 Oct 31 08:27 blockfile_000000
+total 232
+-rw-r-----    1 root     root        234439 Oct 31 08:27 blockfile_000000
+total 236
+-rw-r-----    1 root     root        240352 Oct 31 08:27 blockfile_000000
+total 244
+-rw-r-----    1 root     root        246266 Oct 31 08:27 blockfile_000000
+total 248
+-rw-r-----    1 root     root        252178 Oct 31 08:27 blockfile_000000
+total 256
+-rw-r-----    1 root     root        258091 Oct 31 08:27 blockfile_000000
+total 264
+-rw-r-----    1 root     root        264005 Oct 31 08:27 blockfile_000000
+total 268
+-rw-r-----    1 root     root        269917 Oct 31 08:27 blockfile_000000
+total 276
+-rw-r-----    1 root     root        275829 Oct 31 08:27 blockfile_000000
+total 280
+-rw-r-----    1 root     root        281744 Oct 31 08:27 blockfile_000000
+total 288
+-rw-r-----    1 root     root        287658 Oct 31 08:27 blockfile_000000
+total 292
+-rw-r-----    1 root     root        293571 Oct 31 08:27 blockfile_000000
+total 300
+-rw-r-----    1 root     root        299486 Oct 31 08:27 blockfile_000000
+total 304
+-rw-r-----    1 root     root        305402 Oct 31 08:27 blockfile_000000
+total 312
+-rw-r-----    1 root     root        311316 Oct 31 08:27 blockfile_000000
+total 316
+-rw-r-----    1 root     root        317230 Oct 31 08:27 blockfile_000000
+total 320
+-rw-r-----    1 root     root        323143 Oct 31 08:27 blockfile_000000
+total 328
+-rw-r-----    1 root     root        329056 Oct 31 08:27 blockfile_000000
+total 332
+-rw-r-----    1 root     root        334967 Oct 31 08:27 blockfile_000000
+total 340
+-rw-r-----    1 root     root        340882 Oct 31 08:27 blockfile_000000
+total 344
+-rw-r-----    1 root     root        346796 Oct 31 08:27 blockfile_000000
+total 352
+-rw-r-----    1 root     root        352709 Oct 31 08:27 blockfile_000000
+total 356
+-rw-r-----    1 root     root        358623 Oct 31 08:27 blockfile_000000
+total 360
+-rw-r-----    1 root     root        364536 Oct 31 08:27 blockfile_000000
+total 368
+-rw-r-----    1 root     root        370449 Oct 31 08:27 blockfile_000000
+total 372
+-rw-r-----    1 root     root        376363 Oct 31 08:28 blockfile_000000
+total 380
+-rw-r-----    1 root     root        382278 Oct 31 08:28 blockfile_000000
+total 384
+-rw-r-----    1 root     root        388192 Oct 31 08:28 blockfile_000000
+total 392
+-rw-r-----    1 root     root        394105 Oct 31 08:28 blockfile_000000
+total 396
+-rw-r-----    1 root     root        400018 Oct 31 08:28 blockfile_000000
+total 404
+-rw-r-----    1 root     root        405930 Oct 31 08:28 blockfile_000000
+total 408
+-rw-r-----    1 root     root        411846 Oct 31 08:28 blockfile_000000
+total 412
+-rw-r-----    1 root     root        417761 Oct 31 08:28 blockfile_000000
+total 420
+-rw-r-----    1 root     root        423674 Oct 31 08:28 blockfile_000000
+total 424
+-rw-r-----    1 root     root        429588 Oct 31 08:28 blockfile_000000
+total 432
+-rw-r-----    1 root     root        435503 Oct 31 08:28 blockfile_000000
+total 436
+-rw-r-----    1 root     root        441417 Oct 31 08:28 blockfile_000000
+total 444
+-rw-r-----    1 root     root        447330 Oct 31 08:28 blockfile_000000
+total 448
+-rw-r-----    1 root     root        453243 Oct 31 08:28 blockfile_000000
+total 456
+-rw-r-----    1 root     root        459155 Oct 31 08:28 blockfile_000000
+total 460
+-rw-r-----    1 root     root        465068 Oct 31 08:28 blockfile_000000
+total 464
+-rw-r-----    1 root     root        470984 Oct 31 08:28 blockfile_000000
+total 472
+-rw-r-----    1 root     root        476899 Oct 31 08:28 blockfile_000000
+total 476
+-rw-r-----    1 root     root        482813 Oct 31 08:28 blockfile_000000
+total 484
+-rw-r-----    1 root     root        488727 Oct 31 08:28 blockfile_000000
+total 488
+-rw-r-----    1 root     root        494640 Oct 31 08:28 blockfile_000000
+total 496
+-rw-r-----    1 root     root        500556 Oct 31 08:28 blockfile_000000
+total 500
+-rw-r-----    1 root     root        506470 Oct 31 08:28 blockfile_000000
+total 508
+-rw-r-----    1 root     root        512385 Oct 31 08:28 blockfile_000000
+total 512
+-rw-r-----    1 root     root        518298 Oct 31 08:28 blockfile_000000
+total 516
+-rw-r-----    1 root     root        524211 Oct 31 08:28 blockfile_000000
+total 524
+-rw-r-----    1 root     root        530125 Oct 31 08:28 blockfile_000000
+total 528
+-rw-r-----    1 root     root        536039 Oct 31 08:28 blockfile_000000
+total 536
+-rw-r-----    1 root     root        541953 Oct 31 08:29 blockfile_000000
+total 540
+-rw-r-----    1 root     root        547867 Oct 31 08:29 blockfile_000000
+total 548
+-rw-r-----    1 root     root        553783 Oct 31 08:29 blockfile_000000
+total 552
+-rw-r-----    1 root     root        559695 Oct 31 08:29 blockfile_000000
+total 560
+-rw-r-----    1 root     root        565610 Oct 31 08:29 blockfile_000000
+total 564
+-rw-r-----    1 root     root        571523 Oct 31 08:29 blockfile_000000
+total 568
+-rw-r-----    1 root     root        577437 Oct 31 08:29 blockfile_000000
+total 576
+-rw-r-----    1 root     root        583353 Oct 31 08:29 blockfile_000000
+total 580
+-rw-r-----    1 root     root        589267 Oct 31 08:29 blockfile_000000
+total 588
+-rw-r-----    1 root     root        595179 Oct 31 08:29 blockfile_000000
+total 592
+-rw-r-----    1 root     root        601092 Oct 31 08:29 blockfile_000000
+total 600
+-rw-r-----    1 root     root        607006 Oct 31 08:29 blockfile_000000
+total 604
+-rw-r-----    1 root     root        612920 Oct 31 08:29 blockfile_000000
+total 612
+-rw-r-----    1 root     root        618834 Oct 31 08:29 blockfile_000000
+total 616
+-rw-r-----    1 root     root        624747 Oct 31 08:29 blockfile_000000
+total 620
+-rw-r-----    1 root     root        630661 Oct 31 08:29 blockfile_000000
+total 628
+-rw-r-----    1 root     root        636577 Oct 31 08:29 blockfile_000000
+total 632
+-rw-r-----    1 root     root        642491 Oct 31 08:29 blockfile_000000
+total 640
+-rw-r-----    1 root     root        648406 Oct 31 08:29 blockfile_000000
+total 644
+-rw-r-----    1 root     root        654320 Oct 31 08:29 blockfile_000000
+total 652
+-rw-r-----    1 root     root        660232 Oct 31 08:29 blockfile_000000
+total 656
+-rw-r-----    1 root     root        666146 Oct 31 08:29 blockfile_000000
+total 664
+-rw-r-----    1 root     root        672060 Oct 31 08:29 blockfile_000000
+total 668
+-rw-r-----    1 root     root        677978 Oct 31 08:29 blockfile_000000

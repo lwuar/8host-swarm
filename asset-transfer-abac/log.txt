@@ -1,0 +1,66 @@
+|00:53:31|asetr@kaitak:[test-network]> export CORE_PEER_MSPCONFIGPATH=${PWD}/organizations/peerOrganizations/org1.example.com/users/creator2@org1.example.com/msp
+|00:53:43|asetr@kaitak:[test-network]> 
+|00:53:44|asetr@kaitak:[test-network]> time peer chaincode invoke $TARGET_TLS_OPTIONS -C mychannel -n abac -c '{"function":"CreateAsset","Args":["Asset0","5777ff1c0e77220d2dd7abb205ed311ffd70d6b826fdf8b00f224b50d4f6847448f511ca0a45799efdc399c98c31b258acdfe654cd3ce23a9eb7f170a38e547fb27563aad4d2e3d09f8232500e142b0d7c6a6126beebcaac1ac0216478f48f40b895dfe702d93627a808d222707c8640e72ccaffaad26db5b24b3af99f87f54ee5566d138dcdd1d3df40dbc1b859f698e8c7cc619a93a8c2fa1f615823d3d946f160c0997f3f12e51700236d09b9b84d75e50a81d51af4b0c172f7d45163a6d1c7d427d5691b78bf2ae90fa5ed8ad47e934157853c2dad45b290dfb07d6f773190b33acc2ed1fc06d4c6ef513ee8fe3c18221ec244ac05d4716a4fbfb8761d4f"]}'
+2021-10-29 00:53:53.092 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.043s
+user    0m0.024s
+sys     0m0.016s
+|00:53:53|asetr@kaitak:[test-network]> time peer chaincode invoke $TARGET_TLS_OPTIONS -C mychannel -n abac -c '{"function":"CreateAsset","Args":["Asset1","082f009ba2d2ba8da9be6243b8ae1f52b724e300705d5a6fb87ce78f32f4fbc4abeba55e42c1d388063e96060c79b1ba276294b918ef25a2d3ef3a99f61d115d54279e8bbd8cdc6d2662c127cf44b66b8f12e581f9466c2ad0442e60da9b7a8856e81fa2d061c0a1ca6d64687a60d75a48521f306a7a527e3dd26db1e43aac9ae1ef03d78e43229744d0c7434608e3a57d3a46c25545ea3e0ff9ebcc3d86545482cabc0cefba5e6e2ce3f1e7f6017c51904654906653b1bfa0dc1e86ae9ad02486adfebcc311571156df65bb94e8a1d6c5d07682f502415016aa2b1627639a1131a8c8023fb2a00316d1f10588fdebfbaa4e21b54e72f04bcd68746b074558e2"]}'
+2021-10-29 00:53:57.953 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.084s
+user    0m0.058s
+sys     0m0.021s
+|00:53:57|asetr@kaitak:[test-network]> export CORE_PEER_MSPCONFIGPATH=${PWD}/organizations/peerOrganizations/org1.example.com/users/creator1@org1.example.com/msp
+|00:54:01|asetr@kaitak:[test-network]> time peer chaincode invoke $TARGET_TLS_OPTIONS -C mychannel -n abac -c '{"function":"CreateAsset","Args":["Asset2","35384ec016b4fd56c773b3dceb37a3db46da592cada39d5078e915fff59603b7426db39cf0db69310ac0675f62db4bca80b588c3ec56e55397ba6be9c75ccc041af33859a353209f33de17af1ba50cec1c6357a9dd24535b4306de516fe3ef98fef9816e737c232961a6c2533c6c033b88636063929982c2e1cb094da6d83720fb34ff8c7e4da472eb2fe66c0c5630c93ad45a1fbe663a4d0a8d1df61392bbef18cf9a985852eb1dc9c9f30a7e02ca9ee4243435441d12a221db6793a3e178e051b9379afb2b7acc75724012d6e8889857e9ae550ea2edf40a0bfc44d62e4f36f2fa5fdcfd126e434e41b3ccf50767759a9e1cf6a0d21c2bb7d57bca18742082"]}'
+2021-10-29 00:54:05.626 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.050s
+user    0m0.028s
+sys     0m0.008s
+|00:54:05|asetr@kaitak:[test-network]> time peer chaincode invoke $TARGET_TLS_OPTIONS -C mychannel -n abac -c '{"function":"CreateAsset","Args":["Asset3","cfc72a78595205ee28d07e45e4b14559392df0baebd6c65c0866f04b363c0e090e6899d1abbf9d77533d60432e7d9fcbad4f6acccd04851ad1cc636420699f287b40ae188cea7c0a3f37ad34acb070431b16c1e83c43b51a47e12d6148e91e94884eb8f176b8612d6b3f5dcffd110a981a6f562dafc5c4f6e2fca053786d47e5f05f3979e05fac2fe4da6fc8269625ab9f15bdbbd056928f63b47799b3d1b8d5d949ac749b5344377102163c72ced19b5289a7ddfcafc8ea244da72252b3ee0da873af2e8f4db871b6d268c2212d4833f3e5515e5ded592a17cc5cf603cde90672beb2223e9d85ae2113da6a3a4b3cf902af8a5d2aefbe949df04712e9ad0118"]}'
+2021-10-29 00:54:09.810 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.070s
+user    0m0.047s
+sys     0m0.009s
+|00:54:09|asetr@kaitak:[test-network]> export CORE_PEER_MSPCONFIGPATH=${PWD}/organizations/peerOrganizations/org1.example.com/users/creator2@org1.example.com/msp
+|00:54:12|asetr@kaitak:[test-network]> time peer chaincode invoke $TARGET_TLS_OPTIONS -C mychannel -n abac -c '{"function":"CreateAsset","Args":["Asset4","5370553a2d9e5ce9c227670af9fd4f2eca7bb1c657183955e337d4f866a57c7aff68218ce5dba093fc1f5a0affb540542c8129501f038236f1b2c9c834f98d3874481f27b005f1afeffd5921232a9a9df92c0e091ae025ea0aa5b6d2d31d2ebcf278b55d0165e42fb05b277aff56a1dbb43f22eee1bf5ea0d693a42a87a3cb068881b55fa376e8df55d5c2b282a7f97f9f824417b57a00929c5417dc47dd0466629e1f657ab4c3926a26d068083e68454a05c437e77921837006637f3a0d54c15b8c126aadc5ddf34813c411fbecb5ecc53430adb786956ce4bbf422e8300ba99bcdb575d671f77b0f56e732b4e79e4c2ba1aa49a88019ac9d7b1626590fb95d"]}'
+2021-10-29 00:54:15.565 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.112s
+user    0m0.081s
+sys     0m0.023s
+|00:54:15|asetr@kaitak:[test-network]> time peer chaincode invoke $TARGET_TLS_OPTIONS -C mychannel -n abac -c '{"function":"CreateAsset","Args":["Asset5","4c7894307e23a06ea8cfc50a903f97964f6196959c5c336dce12315d1c09e59bf1f9bc30bbc5d2306884b758129713d6a4416c93fa583870d4875268277823394f8bd0c678898fda77602d18367d9e2950182f69de636f8ddae717a31ea06d4b9f8df4ee54742a05bc94175b80fcb7468c46ebd9dd7667be0b1b1e8e3d7698dc885246c109ac86d1d43d57c163c11b6fbef329211b83daa21ca5df7013231ae1159da64a9233ec252f0baed45f68ffe2105bfac5dc459df30b31c4e4c6919d61cfc2549539f4c0b24007a9d26ab393e4541b96c6edcf9dd5556380e662c07b23bb51b2b05a049bcab5a48f1546b6cb67c77dbd9e82f205644c301f0abadc4047"]}'
+2021-10-29 00:54:20.145 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.171s
+user    0m0.134s
+sys     0m0.022s
+|00:54:20|asetr@kaitak:[test-network]> export CORE_PEER_MSPCONFIGPATH=${PWD}/organizations/peerOrganizations/org1.example.com/users/creator1@org1.example.com/msp
+|00:54:23|asetr@kaitak:[test-network]> time peer chaincode invoke $TARGET_TLS_OPTIONS -C mychannel -n abac -c '{"function":"CreateAsset","Args":["Asset6","551080672d4f9a347134866ffff0b8ebaa5ffff63745ed122f89ed8b3c17604e8322971600624a487d19eb8fead216e255010172947ffb8cd68ef8fdcbcf0519b522d041ac66a38b1323740f400da2f598160605e662e208179085ec0ba37707cce7b419718a7339cd74facaeec56eba14800ba3a76877f02e4a5b24ab38d95b572223229b80effd432c641e9b337d47e0339df8a4591270e3a7b46562b1a1df144213c1d4b4c50f3b06f23cd4c7eee96e9e9ae86e903fa370fa9d52bce3e45b6a12c234d4047a643bcb1af7366e6f475daa0414e7ebe697695cd2e953119ea287599d48583f94fda9a4108b6a177ca8efaefc7a5387d43c408a496541d85891"]}'
+2021-10-29 00:54:27.851 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.045s
+user    0m0.028s
+sys     0m0.009s
+|00:54:27|asetr@kaitak:[test-network]> time peer chaincode invoke $TARGET_TLS_OPTIONS -C mychannel -n abac -c '{"function":"CreateAsset","Args":["Asset7","02b5da41246a13bb0144a019a086d201b95d9aee7418fe23660eef8fd52fe3970f7329f4d1f789d80403dd451c476266c49c60112b9ac8aa587314de2854046d263d34b7c481816baf7cf2eefacb8e4011e7845a83dae5bc7b8031257c3a820f107c25faae38744f2b50cec46b13e695a829c1a3d4bbea8212d9ce68aa2bef2ce35de240ce996cca4bb0047aeb74517c404ce48568b35fee968fc041467bdb944554e92260866ff22574eb1c6c0d97092aa998ca32aa8cd1ba70efe637477246e695955c6551d49c77dfb108b3b0825bb87bcbbc7245a3e50a18802f88666c50a25f27b7c1097a16d832d3494cdfbf9a6499dfdd2175c35051bb48b7af6973c5"]}'
+2021-10-29 00:54:31.111 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.050s
+user    0m0.034s
+sys     0m0.004s
+|00:54:31|asetr@kaitak:[test-network]> export CORE_PEER_MSPCONFIGPATH=${PWD}/organizations/peerOrganizations/org1.example.com/users/creator2@org1.example.com/msp
+|00:54:34|asetr@kaitak:[test-network]> time peer chaincode invoke $TARGET_TLS_OPTIONS -C mychannel -n abac -c '{"function":"CreateAsset","Args":["Asset8","8138c70e9aa7cf9a77306d8f5c55a2b45d8a05eb039b49f93762fddd64b8674c02db1080894cfd91538e3173ba008cbe6a0b209bf885d353ad2813eb9f87a9171f76ebe0339a3b6fe503905e667c41b1b075e72971a81fdab367dd5dab857254c58a0e0ddb8db451e5cdf2080bf602c35bdd89116775a1e429b3b7d98797916a9765fa3f5fe62059a38643cfd6c329c39c71c825b6ac00e0206c16f2778f0f12a8f3da81c7a2b046161a6eb7763a4fcd17b2b1c6fb8ca8cf9153c8159d35167789169ba726e76b3a8087bde278216af8d1f80373e7e4efffe9a7b3f2a76641ee536fa1b541992db7cb01fddd6327f7abc503086cd717283a97e14ddd19354185"]}'
+2021-10-29 00:54:37.837 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.040s
+user    0m0.027s
+sys     0m0.012s
+|00:54:37|asetr@kaitak:[test-network]> time peer chaincode invoke $TARGET_TLS_OPTIONS -C mychannel -n abac -c '{"function":"CreateAsset","Args":["Asset9","81bf100810942309dee37a9fc55f9eeef37d70707c2b360e47d0f49fb87b6dc230245232463447938d39003c33937692be36fac8b814fad914e9304f134308dcef9e2d1a56ad4eb70acc71cda540e64324aee08d5be68ad31b5666933386048575446095565cd1830b65dbd37ed747065e522ab20298a9399a011ebe1da48380cbca946fd029e76c0e478156f70ec9ad8d406053556e4dda6d7a5b732b55b413424a0433ceabe26cbd21df10d539f35d9d4a7191336586f29371a815b50052f68cf302b8cc8158cb5999eae6d062761b0ce172f45cfbd442bf04ae594e2b02e9c3f1b8a1d8315ca4abea699ff43fed6fcfd7ae1c70ca0c88f3cde3e23f7f31d2"]}'
+2021-10-29 00:54:40.551 HKT [chaincodeCmd] chaincodeInvokeOrQuery -> INFO 001 Chaincode invoke successful. result: status:200 
+
+real    0m0.047s
+user    0m0.033s
+sys     0m0.008s
