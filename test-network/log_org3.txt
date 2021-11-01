@@ -1,0 +1,17 @@
+
+/home/asetr/fabric-samples/test-network/../bin/cryptogen
+/home/asetr/fabric-samples/test-network/../bin/configtxgen
+.FileNotFoundError: [Errno 2] No such file or directory: './docker/docker-compose-org3.yaml'
+[0;34mCreating config transaction to add org3 to network[0m
+[0;34mUsing organization 1[0m
+[0;34mFetching the most recent configuration block for the channel[0m
+[0;34mDecoding config block to JSON and isolating config to config.json[0m
+[0;34mSigning config transaction[0m
+[0;34mUsing organization 1[0m
+[0;34mSubmitting transaction from a different peer (peer0.org2) which also signs it[0m
+[0;34mUsing organization 2[0m
+[0;32mConfig transaction to add org3 to network submitted[0m
+[0;34mUsing organization 3[0m
+Fetching channel config block from orderer...
+[31m2021-11-01 03:30:35.213 UTC [main] InitCmd -> ERRO 001[0m Cannot run peer because cannot init crypto, specified path "/opt/gopath/src/github.com/hyperledger/fabric/peer/organizations/peerOrganizations/org3.example.com/users/Admin@org3.example.com/msp" does not exist or cannot be accessed: stat /opt/gopath/src/github.com/hyperledger/fabric/peer/organizations/peerOrganizations/org3.example.com/users/Admin@org3.example.com/msp: no such file or directory
+[0;31mFetching config block from orderer has failed[0m
