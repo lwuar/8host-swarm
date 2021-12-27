@@ -1,13 +1,14 @@
-package main
+package chaincode
 
 import (
 	"encoding/json"
 	"fmt"
 
+	"strconv"
 	"github.com/hyperledger/fabric-contract-api-go/contractapi"
 )
 
-// SmartContract provides functions for managing a car
+// SmartContract provides functions for managing an Asset
 type SmartContract struct {
 	contractapi.Contract
 }
@@ -20,10 +21,25 @@ type Asset struct {
 	To   string `json:"to"`
 }
 
-type QueryResult struct{
-    Key string  `json:"Key"`
-    Record  *Asset
+// InitLedger adds a base set of cars to the ledger
+func (s *SmartContract) InitLedger(ctx contractapi.TransactionContextInterface) error {
+	assets := []Asset{
+		{ID: "asset1", Data: "data1", From: "Alice", To: "Bob"},
+		{ID: "asset2", Data: "data2", From: "Bob", To: "Alice"},
+	}
+
+	for i, asset := range assets {
+		assetAsBytes, _ := json.Marshal(asset)
+		err := ctx.GetStub().PutState("CAR"+strconv.Itoa(i), assetAsBytes)
+
+		if err != nil {
+			return fmt.Errorf("Failed to put to world state. %s", err.Error())
+		}
+	}
+
+	return nil
 }
+
 // CreateAsset issues a new asset to the world state with given details.
 func (s *SmartContract) CreateAsset(ctx contractapi.TransactionContextInterface, id string, data string, from string, to string) error {
 	exists, err := s.AssetExists(ctx, id)
@@ -104,31 +120,17 @@ func (s *SmartContract) GetAllAssets(ctx contractapi.TransactionContextInterface
 
 	return assets, nil
 }
-
 func main() {
 
 	chaincode, err := contractapi.NewChaincode(new(SmartContract))
 
 	if err != nil {
-		fmt.Printf("Error create fabcar chaincode: %s", err.Error())
+		fmt.Printf("Error create bookeeping chaincode: %s", err.Error())
 		return
 	}
 
 	if err := chaincode.Start(); err != nil {
-		fmt.Printf("Error starting fabcar chaincode: %s", err.Error())
+		fmt.Printf("Error starting bookeeping chaincode: %s", err.Error())
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
